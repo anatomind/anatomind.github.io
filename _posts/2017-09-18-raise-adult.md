@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如果養人-避免過度教養 
+title: 養大一個人-避免過度教養 
 date: 2017-09-18 07:36:00
 tags: [ 教養 ]
 author: 陳璿丞
