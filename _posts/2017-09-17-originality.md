@@ -4,6 +4,7 @@ title: 有創意的小孩
 date: 2017-09-17 04:36:00
 tags: [ 教養 ]
 author: 陳璿丞
+descripiton: 現在，我們的機會來了。成為別人的爸媽，成為影響下一代最重要的人，你要留下什麼。如果你覺得傳統的打罵教育不好、覺得指責讓人難堪、覺得教條的死板板管理沒有人性，你可以選擇怎麼做的時候。作者 Adam Grant 是正向心理學的教授，台灣也有這本書的中譯本：反叛，改變世界的力量. 原創, 才是改變世界的力量，反叛是原創的一個過程，而不是為了反叛而反叛。
 ---
 前些時日在 New York Times 讀到這一篇文章：[How to Raise a Creative Child](https://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-step-one-back-off.html)。作者 Adam Grant 是正向心理學的教授，發表相關的書籍和論文無數。但這篇文章有吸引到我。這是從他一本書中的精華，台灣也有這本書的中譯本：《反叛，改變世界的力量》, 但我比較喜歡原本的書名：Originals: How Non-Conformists Move the World。Originals，原創, 才是改變世界的力量，反叛是原創的一個過程，而不是為了反叛而反叛。這本書提到很多讓人如何更有原創力、創造出新的事物，而非承襲前人的作法而已。這本書的第六章：How Siblings, Parents, and Mentors Nurture Originality 是今天本文的重點。其他章節也十分精采，但想和大家聊聊，如何，養出一個俱有原創力的小孩。
 
