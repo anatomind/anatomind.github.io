@@ -5,7 +5,7 @@ image:
 comments: false
 modified: 2017-09-28
 ---
-## Anatomind
+## Anatomind．析心
 
 在我們這個時代，面對種種的紛擾，更需要在眾聲喧嘩之處創造屬於自己的一方寧靜。
 
@@ -14,6 +14,8 @@ modified: 2017-09-28
 我們無法暫停這巨大城市的脈動，但可以在某個靈光乍現的時刻，穿透重重塵囂，找到觀看自己與他人的新方式。
 
 析心，心的解析。
+
+**如有演講需求或是有其他需要諮詢請** [email](mailto:anatomymind@gmail.com)
 
 ## About
 ### 楊迪維
