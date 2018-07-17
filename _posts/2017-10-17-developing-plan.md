@@ -6,6 +6,9 @@ tags: [ 動機式晤談 ]
 author: 陳璿丞, 徐瑋澤, 楊迪維
 description: 有時候當案主開始想改變時，他們會先試探性的跨出一小步。這一步是在以行動難度上是一小步，卻是象徵正確方向的一大步。用膝蓋去想的治療師這時候可能會說：「你就只有做到這樣嗎？」 但任何往正確方向的行動都表示治療師該以樂觀，好奇，肯定的態度看待。
 ---
+
+**2018.07.17 update**：本系列文章已由陳偉任醫師編著成冊[強化動機 承諾改變：動機式晤談實務工作手冊](http://www.books.com.tw/exep/assp.php/poligen/products/0010790177?utm_source=poligen&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201807)
+
 準備好了
 --------
 

@@ -7,6 +7,9 @@ author: 陳璿丞, 徐瑋澤, 楊迪維
 description: 身為治療師，我們不是要在個案身上安裝或是教導他們如何有動機；而是透過對話、讓他們想起自己其實是有動機的。這種從內在出發而引出的動機，會更強烈、讓人更有機會做出改變。當人們在安全的環境之下，更容易有機會做出承諾、表達改變的可能。
 ---
 
+**2018.07.17 update**：本系列文章已由陳偉任醫師編著成冊[強化動機 承諾改變：動機式晤談實務工作手冊](http://www.books.com.tw/exep/assp.php/poligen/products/0010790177?utm_source=poligen&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201807)
+
+
 反應阻抗的技術
 --------------
 
